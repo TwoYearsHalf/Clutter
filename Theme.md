@@ -1,4 +1,4 @@
-**主题 agnoster.minimal.omp 参考 Oh-My-Posh**
+### 主题 agnoster.minimal.omp 参考 Oh-My-Posh
 
 在原有主题上进行修改，官方文档请参考：
 
